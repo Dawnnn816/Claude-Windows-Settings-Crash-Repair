@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/SettingsCrashRepair/SettingsCrashRepair.csproj" />
+  <Project Path="tests/SettingsCrashRepair.Tests/SettingsCrashRepair.Tests.csproj" />
+</Solution>

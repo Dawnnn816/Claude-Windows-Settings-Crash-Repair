@@ -1,0 +1,7 @@
+bin/
+obj/
+artifacts/
+.vs/
+*.user
+*.suo
+e7990ebdb1303bffe3b3ae5cf9e55dcc.jpg

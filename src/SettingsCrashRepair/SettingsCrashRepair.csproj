@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>SettingsCrashRepair</AssemblyName>
+    <RootNamespace>SettingsCrashRepair</RootNamespace>
+    <Version>1.3.0</Version>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\donation.jpg" LogicalName="SettingsCrashRepair.DonationCode.jpg" />
+  </ItemGroup>
+</Project>
