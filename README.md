@@ -1,4 +1,4 @@
-##Claude导致的Windows 设置闪退诊断与修复工具
+## Claude导致的Windows 设置闪退诊断与修复工具
 
 一个完全本地运行的 Windows 工具，用于诊断并修复 Claude Desktop 异常启动项触发的 Windows“设置 -> 应用 -> 启动”页面崩溃，同时保留 Windows 设置应用重新注册功能，用于处理另一类已确认的设置组件注册异常。
 
